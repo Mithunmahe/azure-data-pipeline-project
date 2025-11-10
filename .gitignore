@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+e-commerce/
+.env
+.venv/
+venv/
+*.venv
+
+# Output files
+output/
+*.csv
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
